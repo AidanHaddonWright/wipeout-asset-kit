@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="feisar.svg"
+   sodipodi:docname="feisar-wallpaper-16by9-1.svg"
    inkscape:export-filename="/home/Aidan/Pictures/wipeout-backgrounds/feisar.png"
    inkscape:export-xdpi="25.4"
    inkscape:export-ydpi="25.4">
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35000001"
-     inkscape:cx="1228.7689"
-     inkscape:cy="842.41112"
+     inkscape:cx="661.62606"
+     inkscape:cy="830.98255"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,38 +93,155 @@
        id="path1055"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
        d="m 265.4884,109.4425 h -47.21387 v 34.73647 h 9.60498 c 0,0 0,-22.21816 0,-25.12817 3.05292,0 37.60889,0 37.60889,0 z m -147.42786,22.2069 c 0,0 34.53191,0 37.58193,0 v 2.92445 c -3.05002,0 -37.58193,0 -37.58193,0 v 9.60512 h 47.2158 v -22.13523 c 0,0 -34.5579,0 -37.60793,0 v -2.99294 c 3.05003,0 37.60793,0 37.60793,0 v -9.6083 h -47.2158 z m 87.68653,2.92445 h -27.97166 v -2.92445 h 27.97166 z M 168.16945,119.0508 c 0,0 34.5271,0 37.57762,0 v 2.99294 c -3.05052,0 -37.57762,0 -37.57762,0 v 22.13523 h 47.21196 V 109.4425 h -47.21196 z m 87.78176,14.27124 v 10.85693 h 9.60842 V 133.32204 Z M 5.6003527,144.17897 h 9.6055263 c 0,0 0,-10.0853 0,-12.59936 3.050203,0 37.383873,0 37.383873,0 v -9.6329 c 0,0 -34.33367,0 -37.383873,0 v -2.93312 c 3.050203,0 37.383873,0 37.383873,0 V 109.4425 H 5.6003527 Z m 99.9920573,0 h 9.60676 V 109.4425 h -9.60676 z M 65.090954,119.0508 h 27.974242 v 2.92151 H 65.090954 Z m -9.608392,25.12817 h 47.217018 v -9.60512 c 0,0 -34.558399,0 -37.608626,0 v -2.92445 c 3.050227,0 37.608626,0 37.608626,0 V 109.4425 H 55.482562 v 34.73647" />
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="Faster"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75097847px;line-height:1.25;font-family:'Virgo 01';-inkscape-font-specification:'Virgo 01, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
-       x="5.6003528"
-       y="75.717216"
-       id="text823"><tspan
-         sodipodi:role="line"
-         id="tspan821"
-         x="5.6003528"
-         y="75.717216"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329">Faster</tspan></text>
-    <text
-       id="text827"
-       y="101.04247"
-       x="5.6003528"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75097847px;line-height:1.25;font-family:'Virgo 01';-inkscape-font-specification:'Virgo 01, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
-       xml:space="preserve"><tspan
+       id="text823">
+      <path
+         d="M 5.6003528,75.717216 V 58.013539 H 29.741731 v 4.828276 H 10.428628 v 1.609425 h 19.313103 v 4.828276 H 10.428628 v 6.4377 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
-         y="101.04247"
-         x="5.6003528"
-         id="tspan825"
-         sodipodi:role="line">Fitter</tspan></text>
-    <text
-       xml:space="preserve"
+         id="path823"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 50.664258,70.888941 V 69.279516 H 36.179431 v 1.609425 z M 31.351156,75.717216 V 64.45124 H 50.664258 V 62.841815 H 31.351156 v -4.828276 h 24.141378 v 17.703677 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path825"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 57.101959,75.717216 V 70.888941 H 76.415061 V 69.279516 H 57.101959 V 58.013539 h 24.141378 v 4.828276 H 61.930234 v 1.609425 h 19.313103 v 11.265976 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path827"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 92.509315,75.717216 V 62.841815 h -9.656551 v -4.828276 h 24.141376 v 4.828276 h -9.65655 v 12.875401 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path829"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 127.91667,64.45124 V 62.841815 H 113.43184 V 64.45124 Z M 108.60356,75.717216 V 58.013539 h 24.14138 v 11.265977 h -19.3131 v 1.609425 h 19.3131 v 4.828275 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path831"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 134.35437,75.717216 V 58.013539 h 24.14137 v 4.828276 h -19.3131 v 12.875401 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path833"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="Fitter"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75097847px;line-height:1.25;font-family:'Virgo 01';-inkscape-font-specification:'Virgo 01, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       id="text827">
+      <path
+         d="M 5.6003528,101.04247 V 83.338796 H 29.741731 v 4.828275 H 10.428628 v 1.609426 h 19.313103 v 4.828275 H 10.428628 v 6.437698 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path836"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 31.351156,101.04247 V 83.338796 h 4.828275 v 17.703674 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path838"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 47.445407,101.04247 V 88.167071 h -9.656551 v -4.828275 h 24.141378 v 4.828275 h -9.656551 v 12.875399 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path840"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 73.196212,101.04247 V 88.167071 h -9.656551 v -4.828275 h 24.141378 v 4.828275 h -9.656551 v 12.875399 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path842"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 108.60356,89.776497 V 88.167071 H 94.118738 v 1.609426 z M 89.290462,101.04247 V 83.338796 H 113.43184 V 94.604772 H 94.118738 v 1.609425 h 19.313102 v 4.828273 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path844"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 115.04126,101.04247 V 83.338796 h 24.14138 v 4.828275 h -19.3131 v 12.875399 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         id="path846"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="the future is euro"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;line-height:1.25;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="5.6003528"
-       y="191.36761"
-       id="text856"><tspan
-         sodipodi:role="line"
-         id="tspan854"
-         x="5.6003528"
-         y="191.36761"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332">the future is euro</tspan></text>
+       id="text856">
+      <path
+         d="m 10.265775,191.36761 v -6.22056 H 5.6003528 v -2.33271 H 17.263908 v 2.33271 h -4.665422 v 6.22056 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path849"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18.041479,191.36761 v -8.55327 h 2.332711 v 3.11028 h 6.998133 v -3.11028 h 2.332711 v 8.55327 h -2.332711 v -3.11028 H 20.37419 v 3.11028 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path851"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 39.813449,185.92462 v -0.77757 h -6.998133 v 0.77757 z m -9.330844,5.44299 v -8.55327 H 42.14616 v 5.44299 h -9.330844 v 0.77757 h 9.330844 v 2.33271 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path853"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 48.366722,191.36761 v -8.55327 h 11.663555 v 2.33271 h -9.330844 v 0.77757 h 9.330844 v 2.33271 h -9.330844 v 3.11028 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path855"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 60.807849,191.36761 v -8.55327 h 2.332712 v 6.22056 h 6.998133 v -6.22056 h 2.332711 v 8.55327 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path857"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 77.914396,191.36761 v -6.22056 h -4.665423 v -2.33271 h 11.663556 v 2.33271 h -4.665422 v 6.22056 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path859"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 85.690097,191.36761 v -8.55327 h 2.332711 v 6.22056 h 6.998134 v -6.22056 h 2.332711 v 8.55327 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path861"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 98.131229,191.36761 v -8.55327 h 11.663551 v 2.33271 h -9.33084 v 6.22056 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path863"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 119.9032,185.92462 v -0.77757 h -6.99814 v 0.77757 z m -9.33085,5.44299 v -8.55327 h 11.66356 v 5.44299 h -9.33085 v 0.77757 h 9.33085 v 2.33271 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path865"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 128.45647,191.36761 v -8.55327 h 2.33271 v 8.55327 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path867"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 131.56675,191.36761 v -2.33271 h 9.33085 v -0.77757 h -9.33085 v -5.44299 h 11.66356 v 2.33271 h -9.33085 v 0.77757 h 9.33085 v 5.44299 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path869"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 158.78172,185.92462 v -0.77757 h -6.99813 v 0.77757 z m -9.33084,5.44299 v -8.55327 h 11.66355 v 5.44299 h -9.33084 v 0.77757 h 9.33084 v 2.33271 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path871"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 161.89199,191.36761 v -8.55327 h 2.33272 v 6.22056 h 6.99813 v -6.22056 h 2.33271 v 8.55327 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path873"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 174.33313,191.36761 v -8.55327 h 11.66355 v 2.33271 h -9.33084 v 6.22056 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path875"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 196.10509,189.0349 v -3.88785 h -6.99814 v 3.88785 z m -9.33085,2.33271 v -8.55327 h 11.66356 v 8.55327 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332"
+         id="path877"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
