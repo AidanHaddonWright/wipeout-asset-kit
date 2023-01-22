@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="feisar.svg"
+   inkscape:export-filename="/home/Aidan/Pictures/wipeout-backgrounds/feisar.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="1228.7689"
+     inkscape:cy="842.41112"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="993"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-smooth-nodes="true"
+     showguides="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249969)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.44831443;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect949"
+       width="508.00027"
+       height="285.75018"
+       x="1.9254257e-07"
+       y="11.249969" />
+    <path
+       style="fill:#377fa5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+       d="M 297.35017,11.249969 H 235.86786 86.555222 0 V 197.74 h 235.86786 25.22059 c 7.1737,0 17.70325,-4.33114 26.43567,-10.44652 L 450.91175,24.924751 c 7.70864,-7.554809 20.25013,-13.674782 28.01911,-13.674782 80.5156,0 -155.39621,0 -181.58069,0 z"
+       id="path1147"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccscccc" />
+    <path
+       style="fill:#f9cb0c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+       d="m 390.31106,222.14523 c -9.38263,0 -23.87715,7.26116 -33.85355,16.52709 -26.89857,24.98303 -41.12517,49.65991 -81.95937,49.65991 H 0 v 8.66796 h 320.60325 164.33063 23.06644 v -8.66796 -5.70427 l -3e-5,-60.48273 c -39.39069,-0.49173 -77.70188,0 -117.68923,0 z"
+       id="path1145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccccccccc" />
+    <path
+       style="fill:#a9d0d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+       d="m 444.66659,94.326708 c -9.38245,0 -24.5438,7.398362 -33.8601,16.527182 l -62.29762,63.35971 -57.92657,56.19984 c -9.56981,7.46916 -19.72605,13.67438 -31.28498,13.67438 H 0 v 18.84745 h 258.81713 c 19.63539,0.0491 32.66823,-7.7199 47.01915,-21.72133 l 77.13526,-75.25676 c 7.71041,-7.54806 20.25087,-13.67518 28.01447,-13.67518 h 97.01431 V 94.326708 Z"
+       id="path1149"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1055"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+       d="m 265.4884,109.4425 h -47.21387 v 34.73647 h 9.60498 c 0,0 0,-22.21816 0,-25.12817 3.05292,0 37.60889,0 37.60889,0 z m -147.42786,22.2069 c 0,0 34.53191,0 37.58193,0 v 2.92445 c -3.05002,0 -37.58193,0 -37.58193,0 v 9.60512 h 47.2158 v -22.13523 c 0,0 -34.5579,0 -37.60793,0 v -2.99294 c 3.05003,0 37.60793,0 37.60793,0 v -9.6083 h -47.2158 z m 87.68653,2.92445 h -27.97166 v -2.92445 h 27.97166 z M 168.16945,119.0508 c 0,0 34.5271,0 37.57762,0 v 2.99294 c -3.05052,0 -37.57762,0 -37.57762,0 v 22.13523 h 47.21196 V 109.4425 h -47.21196 z m 87.78176,14.27124 v 10.85693 h 9.60842 V 133.32204 Z M 5.6003527,144.17897 h 9.6055263 c 0,0 0,-10.0853 0,-12.59936 3.050203,0 37.383873,0 37.383873,0 v -9.6329 c 0,0 -34.33367,0 -37.383873,0 v -2.93312 c 3.050203,0 37.383873,0 37.383873,0 V 109.4425 H 5.6003527 Z m 99.9920573,0 h 9.60676 V 109.4425 h -9.60676 z M 65.090954,119.0508 h 27.974242 v 2.92151 H 65.090954 Z m -9.608392,25.12817 h 47.217018 v -9.60512 c 0,0 -34.558399,0 -37.608626,0 v -2.92445 c 3.050227,0 37.608626,0 37.608626,0 V 109.4425 H 55.482562 v 34.73647" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75097847px;line-height:1.25;font-family:'Virgo 01';-inkscape-font-specification:'Virgo 01, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="5.6003528"
+       y="75.717216"
+       id="text823"><tspan
+         sodipodi:role="line"
+         id="tspan821"
+         x="5.6003528"
+         y="75.717216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329">Faster</tspan></text>
+    <text
+       id="text827"
+       y="101.04247"
+       x="5.6003528"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75097847px;line-height:1.25;font-family:'Virgo 01';-inkscape-font-specification:'Virgo 01, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.75080299px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458329"
+         y="101.04247"
+         x="5.6003528"
+         id="tspan825"
+         sodipodi:role="line">Fitter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;line-height:1.25;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.6003528"
+       y="191.36761"
+       id="text856"><tspan
+         sodipodi:role="line"
+         id="tspan854"
+         x="5.6003528"
+         y="191.36761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.44112587px;font-family:Feisar;-inkscape-font-specification:'Feisar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9cb0c;fill-opacity:1;stroke-width:0.26458332">the future is euro</tspan></text>
+  </g>
+</svg>

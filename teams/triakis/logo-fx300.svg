@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="132.2915mm"
+   height="71.974075mm"
+   viewBox="0 0 132.2915 71.974076"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/Aidan/Pictures/wipeout-backgrounds/triakis.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo-fx300.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="309.15187"
+     inkscape:cy="95.294623"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="993"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-687.71265,155.15478)">
+    <path
+       sodipodi:nodetypes="ccccscccccccccccccccccccccccc"
+       style="fill:#d5d6ca;fill-opacity:1;stroke-width:0.03527778"
+       d="m 687.71272,-95.810383 56.99484,-59.344327 59.81962,-7e-5 c 6.71743,1.0475 12.90216,7.19704 14.80241,14.05017 0.61493,2.21749 0.67456,4.17144 0.67456,22.10206 3e-5,16.75013 -0.0866,20.005573 -0.58377,21.933714 -2.67429,7.427023 -6.86662,10.536184 -12.82767,13.888131 h -63.52858 l -19.99441,-19.915335 -20.25833,19.914956 h -15.09874 z m 112.16871,-7.653807 v -4.20767 l -52.30072,-0.19315 3.77032,4.40082 z m 0,-29.87278 h -48.5304 l -3.77032,3.69535 52.30072,-0.0598 z m -112.16876,-7.01367 -2e-5,-7.00497 7.11281,-7.79917 h 6.79865 l 18.0675,19.76888 c 0.10469,0.44308 -13.007,14.23368 -13.53294,14.23368 z"
+       id="path1630"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
